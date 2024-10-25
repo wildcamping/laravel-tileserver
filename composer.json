@@ -47,5 +47,6 @@
                 "TeamZac\\LaravelTileserver\\LaravelTileserverServiceProvider"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
