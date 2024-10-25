@@ -1,11 +1,11 @@
 {
-    "name": "teamzac/laravel-tileserver",
+    "name": "wildcamping/laravel-tileserver",
     "description": "Turn your Laravel app into an XYZ tile server using your own mbtiles resources.",
     "keywords": [
         "teamzac",
         "laravel-tileserver"
     ],
-    "homepage": "https://github.com/teamzac/laravel-tileserver",
+    "homepage": "https://github.com/wildcamping/laravel-tileserver",
     "license": "MIT",
     "type": "library",
     "authors": [
@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": "^7.3|^8.1",
-        "illuminate/support": "^8.0"
+        "illuminate/support": "^8.1"
     },
     "require-dev": {
         "orchestra/testbench": "^6.0",
